@@ -1,0 +1,3 @@
+- first proper java projet
+- first time using git
+- a lot of first times, not expecting this to be a smooth ride but i am expecting to learn whilst i do this
